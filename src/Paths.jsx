@@ -11,7 +11,6 @@ export const Paths = () => {
         <Routes>
             <Route path="/" element={<App />}/>
             <Route path="/series/:id" element={<SingleCardSerie />}/>
-            {/* <Route path="/series/:id/seasons" element={<InfoSeasons />}/> */}
         </Routes>
         
     </section>
