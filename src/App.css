@@ -1,0 +1,19 @@
+
+
+*{
+    font-family: 'Nunito', sans-serif;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    font-family: 'Indie Flower', cursive !important;
+    font-size: 20px;
+}
+#button-submit{
+    background-color: rgb(34, 193, 193);
+    border-color: rgb(34, 193, 193);
+}
